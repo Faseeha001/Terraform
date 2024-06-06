@@ -19,4 +19,5 @@ Once the package index is updated, you can install Terraform using the following
 
 ## Step 4: Verify Installation
 After installation, verify that Terraform has been installed correctly by checking its version
+
 <img width="351" alt="image" src="https://github.com/Faseeha001/Terraform/assets/169563689/ecb16aa6-317d-4ffb-b2c8-a01c6a265bae">
