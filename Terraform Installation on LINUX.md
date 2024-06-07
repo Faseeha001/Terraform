@@ -7,8 +7,10 @@ Follow these steps to download and install Terraform on Ubuntu:
 
 Open a terminal and run the following command to add the HashiCorp Releases PPA to your system:
 
-**wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
-echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main" | sudo tee /etc/apt/sources.list.d/hashicorp.list****
+**wget -O- https://apt.releases.hashicorp.com/gpg 
+sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/hashicorp-archive-keyring.gpg] https://apt.releases.hashicorp.com $(lsb_release -cs) main"
+sudo tee /etc/apt/sources.list.d/hashicorp.list****
 <img width="945" alt="image" src="https://github.com/Faseeha001/Terraform/assets/169563689/e84fe68c-cb1a-4977-b648-c58b53276617">
 
 ## Step 2: Install Terraform
