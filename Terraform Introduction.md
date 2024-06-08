@@ -17,7 +17,7 @@ Terraform is an open-source infrastructure as code software tool created by Hash
 
 ## Getting Started ##
 
-<a href="https://example.com/path/to/existing_readme.md](https://github.com/Faseeha001/Terraform/blob/main/Terraform%20Installation%20on%20LINUX.md">Terraform Installation on Linux  </a>
+<a href="https://github.com/Faseeha001/Terraform/blob/main/Terraform%20Installation%20on%20LINUX.md">Terraform Installation on Linux  </a>
 
 Management: Use terraform commands like terraform show, terraform state, and terraform destroy to manage your infrastructure over time.
 
