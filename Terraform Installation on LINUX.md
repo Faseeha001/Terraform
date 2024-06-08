@@ -1,5 +1,5 @@
 # Terraform
-# Installing Terraform on Ubuntu
+# Installing Terraform on Linux (Ubuntu)
 
 Follow these steps to download and install Terraform on Ubuntu:
 
