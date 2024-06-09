@@ -5,7 +5,7 @@ This README provides an overview of basic Terraform commands used for managing i
 
 ## Prerequisites
 Before using Terraform, ensure you have the following:
-- Terraform installed on your system. Installation instructions can be found [here](https://learn.hashicorp.com/tutorials/terraform/install-cli).
+- Terraform installed on your system. Installation instructions can be found [Linux Installation](https://github.com/Faseeha001/Terraform/blob/main/Terraform%20Installation%20on%20LINUX.md).
 - Access to a cloud provider (e.g., AWS, Azure, Google Cloud).
 - Provider credentials or access keys configured for your cloud provider.
 
